@@ -6,6 +6,9 @@ authors = ["Waldoh <waldoh@gptcoder.pro>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+streamlit = "^1.27.2"
+openai = "^0.28.1"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
