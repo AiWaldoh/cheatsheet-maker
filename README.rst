@@ -29,6 +29,9 @@ Installation and Setup
 
       poetry install
 
+4. Add OPENAI_API_KEY in .env file
+
+
 Running the Application
 -----------------------
 
